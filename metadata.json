@@ -1,0 +1,6 @@
+{
+  "name": "Funktion",
+  "description": "Executive execution hub and ledger for SMEs and Key Account Managers (KAMs)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
